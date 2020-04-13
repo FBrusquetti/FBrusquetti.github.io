@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "nombre": "buddha_1",
+        "etiqueta":"Buddha",
+        "imgSrc": "assets/img/slider/elefante_1_final.jpg"
+    },
+    {
+        "id":1,
+        "nombre": "gato_1",
+        "etiqueta":"Gato",
+        "imgSrc": "assets/img/slider/gato_1.jpg"
+    },
+    {
+        "id":1,
+        "nombre": "buddha_musgo",
+        "etiqueta":"buddha",
+        "imgSrc": "assets/img/slider/buddha_musgo.jpg"
+    },
+    {
+        "id":1,
+        "nombre": "buddha_esmeralda",
+        "etiqueta":"Gato",
+        "imgSrc": "assets/img/slider/buddha_1_final.jpg"
+    },
+    {
+        "id":1,
+        "nombre": "caballito_fosforecente",
+        "etiqueta":"Caballito",
+        "imgSrc": "assets/img/slider/caballito.jpg"
+    }
+]
